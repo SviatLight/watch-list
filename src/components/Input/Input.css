@@ -1,0 +1,14 @@
+.input label {
+  display: block;
+  font-size: 1.2rem;
+}
+
+.input input {
+  border: none;
+  width: 100%;
+  outline: none;
+  box-shadow: 0 2px 8px rgb(0 0 0 / 14%);
+  border-radius: 8px;
+  font-size: 1.2rem;
+  padding-left: 10px;
+}

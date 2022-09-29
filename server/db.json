@@ -1,0 +1,60 @@
+{
+  "movies": [
+    {
+      "title": "Riverdale",
+      "description": "Cool serila!",
+      "img": "https://upload.wikimedia.org/wikipedia/uk/1/18/Riverdale_Season_1_Poster.jpg",
+      "rate": "5",
+      "category": "Serial",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "img": "https://ua-images.kinorium.com/movie/1080/518747.jpg?1609792497",
+      "title": "Shameless",
+      "description": "I very like this serial it`s so cool!",
+      "rate": "8",
+      "category": "Real life"
+    },
+    {
+      "id": 4,
+      "img": "https://upload.wikimedia.org/wikipedia/ru/3/3e/Sex_Education.jpg",
+      "title": "Sex Education",
+      "description": "KAEF",
+      "rate": "7",
+      "category": "Serial"
+    },
+    {
+      "id": 5,
+      "img": "https://eneyida.tv/uploads/posts/2022-07/elite-2018-s05.jpg",
+      "title": "Elite",
+      "description": "Cool",
+      "rate": "6",
+      "category": "Serial"
+    },
+    {
+      "id": 6,
+      "img": "https://uaserials.pro/posters/1418.jpg",
+      "title": "Паперовий будинок",
+      "description": "Дуже класний серіал!",
+      "rate": "5",
+      "category": "Серіал"
+    },
+    {
+      "title": "Топ Ґан: Меверік",
+      "description": "Супер класний фільм, люблю його!",
+      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGDNLfhUKckuacc9D0t6AMaiqSRIJYwx5VmnGdirckAkUucWOr",
+      "rate": "10",
+      "category": "Фільм",
+      "id": 7
+    },
+    {
+      "title": "Кінець ї***ого світу",
+      "description": "Дуже класно для підлітка!",
+      "img": "https://upload.wikimedia.org/wikipedia/uk/0/02/The_End_of_the_F%2A%2A%2Aing_World.png",
+      "rate": "10",
+      "category": "Драма",
+      "id": 8
+    }
+  ]
+}

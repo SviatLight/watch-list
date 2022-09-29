@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 25px 40px;
+}
+
+.header__logo {
+  font-size: 1.5rem;
+}
+
+.header__menu {
+  display: flex;
+  gap: 20px;
+}
+
+.header__menu li {
+  font-size: 1.1rem;
+  cursor: pointer;
+}
